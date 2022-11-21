@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://4.224.29.23:8081/artifactory/NPM-repo/"
+    "registry": "http://40.86.24.247:8081/artifactory/NPM-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
